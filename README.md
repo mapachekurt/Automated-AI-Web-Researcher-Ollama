@@ -142,3 +142,5 @@ Please enjoy! And feel free to submit any suggestions for improvements so that w
 
 ## Disclaimer
 This project is for educational purposes only. Ensure you comply with the terms of service of all APIs and services used.
+<!-- Triggering GitHub Actions workflow -->
+
